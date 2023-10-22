@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Satyajeet Portflio</title>
-	<atom:link href="http://localhost/pradhan/feed/?simply_static_page=8383" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/pradhan/feed/?simply_static_page=8800" rel="self" type="application/rss+xml" />
 	<link>https://sjpradhan.github.io/sj</link>
 	<description></description>
-	<lastBuildDate>Sun, 22 Oct 2023 07:31:46 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 22 Oct 2023 09:31:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
